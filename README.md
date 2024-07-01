@@ -15,7 +15,7 @@
 
 ----
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 40 px; ">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 60px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   </a>
@@ -25,13 +25,8 @@
   </a>
 </div>
 
+
 -----
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-</p>
-
 
 
 <a href="https://app.daily.dev/shahriarsiddiquearjon"><img src="https://api.daily.dev/devcards/v2/BCMHcKBN0o5lZLEW5gna9.png?type=default&r=bch" width="356" alt="Shahriar Siddique Arjon's Dev Card"/></a>
