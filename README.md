@@ -54,5 +54,4 @@
 -----
 
 
-<a href="https://app.daily.dev/shahriarsiddiquearjon"><img src="https://api.daily.dev/devcards/v2/BCMHcKBN0o5lZLEW5gna9.png?type=default&r=bch" width="356" alt="Shahriar Siddique Arjon's Dev Card"/></a>
-
+<a href="https://app.daily.dev/shahriarsiddiquearjon"><img src="https://api.daily.dev/devcards/v2/BCMHcKBN0o5lZLEW5gna9.png?type=default&r=yii" width="356" alt="Shahriar Siddique Arjon's Dev Card"/></a>
