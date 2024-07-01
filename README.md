@@ -29,10 +29,6 @@
     <a href="https://www.instagram.com/shahriar_siddique_arjon/" target="_blank">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.instagram.com/shahriar_siddique_arjon/" target="_blank">
-        <img src="https://img.shields.io/badge/-E-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aorjon123@gmail.com" alt="instagram" style= "margin-bottom: 5px; height:20px;" />
-    </a>
-    
 </div>
 
   
