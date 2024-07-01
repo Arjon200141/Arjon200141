@@ -15,7 +15,7 @@
 
 ----
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 40px">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 40 px; ">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   </a>
