@@ -29,9 +29,6 @@
 <br />
 -----
 
-<div align="left">
-<a href="https://app.daily.dev/Arjon200141"><img align="right" src="https://github.com/Arjon200141/Arjon200141/blob/main/devcard.svg" width="200" alt="Arjon200141's Dev Card"/></a>
-</div>
 
 <a href="https://app.daily.dev/shahriarsiddiquearjon"><img src="https://api.daily.dev/devcards/v2/BCMHcKBN0o5lZLEW5gna9.png?type=default&r=bch" width="356" alt="Shahriar Siddique Arjon's Dev Card"/></a>
 
