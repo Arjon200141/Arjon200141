@@ -57,4 +57,4 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 -----
 
 
-<a href="https://app.daily.dev/shahriarsiddiquearjon"><img src="https://api.daily.dev/devcards/v2/BCMHcKBN0o5lZLEW5gna9.png?type=default&r=yii" width="356" alt="Shahriar Siddique Arjon's Dev Card"/></a>
+<a href="https://app.daily.dev/shahriarsiddiquearjon"><img src="https://api.daily.dev/devcards/v2/BCMHcKBN0o5lZLEW5gna9.png?type=wide&r=0eq" width="652" alt="Shahriar Siddique Arjon's Dev Card"/></a>
