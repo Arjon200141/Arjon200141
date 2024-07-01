@@ -15,7 +15,7 @@
 
 ----
 
-## Connect with me  
+## Connect with me  : 
 <div style="text-align: center; margin-top: 12px;">
     <a href="https://github.com/Arjon200141" target="_blank" style="margin-right: 6px;">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
