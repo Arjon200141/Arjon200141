@@ -30,7 +30,7 @@
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.instagram.com/shahriar_siddique_arjon/" target="_blank">
-        <img src="https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com" alt="instagram" style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aorjon123@gmail.com" alt="instagram" style="margin-bottom: 5px;" />
     </a>
     
 </div>
