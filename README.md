@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=BreadcrumbsArjon200141&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
 
 ### Languages and Tools:
 
@@ -26,11 +22,16 @@
   </div>
 <br />
 <br />
-----
+-----
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <br />
 <br />
-----
+-----
+
+<div align="left">
+<a href="https://app.daily.dev/Arjon200141"><img align="right" src="https://github.com/Arjon200141/Arjon200141/blob/main/devcard.svg" width="200" alt="Arjon200141's Dev Card"/></a>
+</div>
+
 
 
