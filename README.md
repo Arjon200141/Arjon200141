@@ -23,11 +23,11 @@
   </div>
 <br />
 <br />
-  ---
+----
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <br />
 <br />
----
+----
 
 
