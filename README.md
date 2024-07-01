@@ -15,19 +15,22 @@
 
 ----
 
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjon200141&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-<br />
-<br />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjon200141&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  </a>
+</div>
+
 -----
+
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<br />
-<br />
------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+</p>
+
 
 
 <a href="https://app.daily.dev/shahriarsiddiquearjon"><img src="https://api.daily.dev/devcards/v2/BCMHcKBN0o5lZLEW5gna9.png?type=default&r=bch" width="356" alt="Shahriar Siddique Arjon's Dev Card"/></a>
