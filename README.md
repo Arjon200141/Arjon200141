@@ -13,12 +13,11 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 -----
 <br/>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Arjon200141&theme=dark" alt="GitHub Streak">
   </a>
 </div>
-
 
 <br/>
 
