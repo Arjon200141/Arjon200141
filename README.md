@@ -13,7 +13,8 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 -----
 
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Arjon200141)](https://git.io/streak-stats)
+    <a href="https://streak-stats.demolab.com/?user=Arjon200141"></a>
+    [![GitHub Streak]()](https://git.io/streak-stats)
 </div>
 
 ### Languages and Tools:
