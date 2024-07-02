@@ -82,8 +82,11 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 <br/>
 
 -----
+<br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjon200141)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjon200141&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+-----
 
 <br/>
 
