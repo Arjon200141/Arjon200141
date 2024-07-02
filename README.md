@@ -6,6 +6,16 @@
 
 As a front-end web developer, I specialize in crafting dynamic and responsive user interfaces using HTML, CSS, and Tailwind CSS for streamlined design. Proficient in React.js and JavaScript, I integrate robust functionality and interactive elements into applications. With Node.js and MongoDB expertise, I manage backend operations and ensure seamless data handling, empowering comprehensive web solutions tailored to user needs
 
+<br/>
+<br/>
+<br/>
+
+-----
+
+<div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=Arjon200141)](https://git.io/streak-stats)
+</div>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -45,7 +55,6 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 
 ----
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Arjon200141)](https://git.io/streak-stats)
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
