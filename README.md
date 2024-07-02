@@ -1,3 +1,7 @@
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+</a>
+
 ### About Me :
 
 As a front-end web developer, I specialize in crafting dynamic and responsive user interfaces using HTML, CSS, and Tailwind CSS for streamlined design. Proficient in React.js and JavaScript, I integrate robust functionality and interactive elements into applications. With Node.js and MongoDB expertise, I manage backend operations and ensure seamless data handling, empowering comprehensive web solutions tailored to user needs
