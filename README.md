@@ -1,6 +1,6 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
-</a>
+
+<img src="https://i.ibb.co/qJYb76H/Screenshot-11934.png" />
+
 
 ### About Me :
 
