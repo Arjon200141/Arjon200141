@@ -44,7 +44,7 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 style="margin-right: 60px;" src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+    <img height=200 style="margin-right: 60px;" src="https://github-readme-stats.vercel.app/api?username=Arjon200141&show_icons=true&theme=gotham" alt="Arjon" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
