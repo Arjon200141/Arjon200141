@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/qJYb76H/Screenshot-11934.png" />
 
-
+<br/>
 ### About Me :
 
 As a front-end web developer, I specialize in crafting dynamic and responsive user interfaces using HTML, CSS, and Tailwind CSS for streamlined design. Proficient in React.js and JavaScript, I integrate robust functionality and interactive elements into applications. With Node.js and MongoDB expertise, I manage backend operations and ensure seamless data handling, empowering comprehensive web solutions tailored to user needs
@@ -10,14 +10,14 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 
 
 -----
-
+<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Arjon200141&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
 
 -----
-
+<br/>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -33,7 +33,7 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 <br/>
 
 ----
-
+<br/>
 ## Connect with me  : 
 <div style="text-align: center; margin-top: 12px;">
     <a href="https://github.com/Arjon200141" target="_blank" style="margin-right: 6px;">
@@ -55,7 +55,7 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 <br/>  
 <br/>
 
-----
+-----
 
 
 
@@ -71,8 +71,9 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 
 <br/>  
 <br/>
------
 
+-----
+<br/>
 
 <div align='center'>
    <a href="https://app.daily.dev/shahriarsiddiquearjon"><img src="https://api.daily.dev/devcards/v2/BCMHcKBN0o5lZLEW5gna9.png?type=wide&r=lgc" width="752" alt="Shahriar Siddique Arjon's Dev Card"/></a> 
