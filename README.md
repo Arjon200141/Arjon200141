@@ -12,10 +12,13 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 
 -----
 
-<div align="center">
-    <a href="https://streak-stats.demolab.com/?user=Arjon200141"></a>
-    [![GitHub Streak]()](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arjon200141&theme=dark)](https://git.io/streak-stats)
+
+<br/>
+<br/>
+<br/>
+
+-----
 
 ### Languages and Tools:
 
