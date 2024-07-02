@@ -45,6 +45,8 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 
 ----
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arjon200141)](https://git.io/streak-stats)
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
