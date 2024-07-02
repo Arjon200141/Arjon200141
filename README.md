@@ -60,3 +60,11 @@ As a front-end web developer, I specialize in crafting dynamic and responsive us
 <div align='center'>
    <a href="https://app.daily.dev/shahriarsiddiquearjon"><img src="https://api.daily.dev/devcards/v2/BCMHcKBN0o5lZLEW5gna9.png?type=wide&r=lgc" width="752" alt="Shahriar Siddique Arjon's Dev Card"/></a> 
 </div>
+
+<br/>
+<br/>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Arjon200141&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/Arjon200141/Arjon200141?color=black&logo=github" />
+</p>
