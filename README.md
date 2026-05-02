@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/C3KZyCkK/dacd7228-c0a9-48b8-8a16-1168aa348651.png" alt="Banner" width="100%" />
+</p>
+
 # Hi there, I'm Shahriar Siddique Arjon 👋
 
 ## 🧠 About Me
